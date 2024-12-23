@@ -35,9 +35,9 @@ Count job postings in each region and analyze trends (e.g., seasonal fluctuation
 ## Dashboard Development
 
 Create an interactive dashboard using Tableau for:
-Salary distribution
-Skills and requirements
-Industry segmentation
-Number of job postings
-Ensure the dashboard is user-friendly and visually appealing for career guidance.
+- Salary distribution
+- Skills and requirements
+- Industry segmentation
+- Number of job postings
+- Ensure the dashboard is user-friendly and visually appealing for career guidance.
 
