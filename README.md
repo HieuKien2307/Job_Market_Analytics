@@ -11,28 +11,28 @@ The final deliverables will help individuals interested in these regions to make
 
 # Scope of Work
 
-##Data Collection
+## Data Collection
 
 Scrape or collect job data from LinkedIn for the three specified regions.
 Ensure data quality by cleaning and organizing collected datasets.
 
-##Analysis
+## Analysis
 
-###Salary Analysis:
+### Salary Analysis:
 Compare average and median salaries across the regions.
 Analyze salary ranges by industry and seniority levels.
 
-###Requirements:
+### Requirements:
 Identify common skills (e.g., Python, SQL, Tableau), certifications, and qualifications.
 Compare differences in requirements across regions.
 
-###Industries:
+### Industries:
 List top industries hiring for these roles and analyze industry-specific trends.
 
-###Number of Jobs:
+### Number of Jobs:
 Count job postings in each region and analyze trends (e.g., seasonal fluctuations).
 
-##Dashboard Development
+## Dashboard Development
 
 Create an interactive dashboard using Tableau for:
 Salary distribution
