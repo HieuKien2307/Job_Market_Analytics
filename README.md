@@ -41,3 +41,8 @@ Create an interactive dashboard using Tableau for:
 - Number of job postings
 - Ensure the dashboard is user-friendly and visually appealing for career guidance.
 
+## Report Creation
+
+- Compile a detailed report summarizing the findings, insights, and recommendations.
+- Include visualizations and actionable advice for job seekers in each region.
+
